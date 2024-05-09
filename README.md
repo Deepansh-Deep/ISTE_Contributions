@@ -38,7 +38,7 @@
 <h3>- Technical Team - 2nd Year</h3>
 
 <h2>13. Komal Jha</h2>
-<h3>PR Team - 1sy year</h3>
+<h3>PR Team - 1st year</h3>
 
 <h2>14. Deepansh Deep</h2>
-<h3>PR Team - 1sy year</h3>
+<h3>PR Team - 1st year</h3>
